@@ -39,16 +39,12 @@ This Python-based agent utilizes **Google's Agent Development Kit (ADK)** to per
 
 ### Prerequisites
 
-Ensure the following packages are installed:
+Ensure the following packages are installed: numpy pandas scikit-learn
 
-```bash
-pip install pandas numpy scikit-learn openpyxl
+### Screenshots
 
+![Screenshot 2025-06-07 120159](https://github.com/user-attachments/assets/9a7268d5-9e14-47d7-b801-661aa26e85ac)
 
-## 🖼️ **Screenshots**
-![Screenshot 2025-06-07 120309](https://github.com/user-attachments/assets/83580b97-02f5-476d-bfda-cff656ef41a4)
-![Screenshot 2025-06-07 120256](https://github.com/user-attachments/assets/89044edb-3398-4ae1-83db-598e8757829b)
-![Screenshot 2025-06-07 120221](https://github.com/user-attachments/assets/f96f4406-c943-4dcc-a1ca-b6e1750038a7)
-![Screenshot 2025-06-07 120159](https://github.com/user-attachments/assets/946903c4-78e3-42f5-9e43-11d856bb17d5)
-
-Author Vaisnav R R
+![Screenshot 2025-06-07 120221](https://github.com/user-attachments/assets/771c5baa-9487-4b18-9b8a-2e4ebeabfbbf)
+![Screenshot 2025-06-07 120309](https://github.com/user-attachments/assets/6cc118a8-5e12-405e-9b99-1218c9d1c86b)
+![Screenshot 2025-06-07 120256](https://github.com/user-attachments/assets/d0fca1c6-d458-40e5-b1bd-793fa581bab1)
